@@ -7,3 +7,6 @@ entonces cada edicion o cada comiit quew se edite se tiene que colocar con "gi5 
 
 
  editamos desde sublime text 14-01-2025
+
+
+ vemos que onda para ver que pex
